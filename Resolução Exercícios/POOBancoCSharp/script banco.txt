@@ -1,0 +1,36 @@
+create database conexaoCSharp
+
+use conexaoCSharp
+
+create table clientes(
+id int primary key identity (1,1),
+nome varchar(50),
+email varchar(30),
+endereco varchar(100)
+)
+
+create procedure inserirCliente
+
+@nome varchar(50),
+@email varchar(30),
+@endereco varchar(100)
+as
+insert into clientes (nome,email,endereco)
+values (@nome,@email,@endereco)
+
+
+create procedure cliPorCod
+@id int
+as
+select id,nome,email,endereco 
+from clientes
+where id=@id
+
+create procedure cliPorNome
+@nome varchar(50)
+as
+select id,nome,email,endereco
+from clientes
+where nome like @nome + '%'
+
+select * from clientes

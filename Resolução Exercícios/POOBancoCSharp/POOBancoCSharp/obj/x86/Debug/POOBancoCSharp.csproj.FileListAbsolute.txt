@@ -1,0 +1,20 @@
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\bin\Debug\POOBancoCSharp.exe
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\bin\Debug\POOBancoCSharp.pdb
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.Form1.resources
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.Properties.Resources.resources
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.exe
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.pdb
+C:\Users\Alex e Geisa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.Interface.frmPesqCli.resources
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\bin\Debug\POOBancoCSharp.exe
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\bin\Debug\POOBancoCSharp.pdb
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.Form1.resources
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.Interface.frmPesqCli.resources
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.Properties.Resources.resources
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.csproj.GenerateResource.cache
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.exe
+C:\Users\Casa\Desktop\POOBancoCSharp\POOBancoCSharp\obj\x86\Debug\POOBancoCSharp.pdb
